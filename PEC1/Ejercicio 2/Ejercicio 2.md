@@ -7,9 +7,11 @@ Iniciamos la sincronización mediante geth a la red Rinkeby mediante el comando:
 
 captura 1
 
+![Iniciamos Sincronización](https://github.com/atoranzo/MasterUAH/blob/master/PEC1/Ejercicio%202/1.png)
+
 Obtenemos el address correspondiente al bloque genesis de la red rinkeby mediante geth
 
-
+Falta 
 
 
 
@@ -17,6 +19,7 @@ Obtenemos solo la cantidad de peers a los que estamos conectados con el comando 
 
 Captura 4
 
+![cantidad peers](https://github.com/atoranzo/MasterUAH/blob/master/PEC1/Ejercicio%202/4.png)
 
 
 
@@ -25,6 +28,7 @@ Obtenemos información acerca de los bloques a los que estamos conectados indica
 
 Captura 2
 
+![Información bloques](https://github.com/atoranzo/MasterUAH/blob/master/PEC1/Ejercicio%202/2.png)
 
 
 
