@@ -2,7 +2,7 @@
 ## Alumno: Angel José Toranzo portela
 ### Análisis contrato inteligente
 
-####1) Los códigos de operación del contrato inteligente se obtienen primero compilando el fichero c.sol en formato bin, y luego desensanblando el código en formato binario mediante la máquina virtual de solidity. Esto se realizará mediante las 2 instrucciones siguientes:
+#### 1) Los códigos de operación del contrato inteligente se obtienen primero compilando el fichero c.sol en formato bin, y luego desensanblando el código en formato binario mediante la máquina virtual de solidity. Esto se realizará mediante las 2 instrucciones siguientes:
 
 - solcjs c.sol --bin --optimize
 - evm disasm c_sol_C.bin run
@@ -215,7 +215,7 @@ PUSH1 0x80
 000374: PUSH5 0x6fa5e13645
 
 
-####2) Para obtener los identificadores de las funciones que existan dentro del contrato inteligente hacemos lo siguiente:
+#### 2) Para obtener los identificadores de las funciones que existan dentro del contrato inteligente hacemos lo siguiente:
 
 - solc --optimize --bin -hashes c.sol
 
@@ -240,7 +240,7 @@ d39fa233: numbers(uint256)
 
 
 
-####3) Para obtener la estimación del gas utilizado en cada función hacemos lo siguiente:
+#### 3) Para obtener la estimación del gas utilizado en cada función hacemos lo siguiente:
 
 -  evm --debug --codefile c_sol_C.bin run
 
