@@ -15,7 +15,7 @@ Para ello ejecutamos el cmmando admin desde la consola javascript de genesis y e
 
 Captura 3
 
-
+![Fichero genesis Rinkeby](https://github.com/atoranzo/MasterUAH/blob/master/PEC1/Ejercicio%202/3.png)
 
 Obtenemos solo la cantidad de peers a los que estamos conectados con el comando *admin.peers* en la consola javascript:
 
