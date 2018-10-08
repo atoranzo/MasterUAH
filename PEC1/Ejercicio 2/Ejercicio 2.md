@@ -11,7 +11,9 @@ captura 1
 
 Obtenemos el address correspondiente al bloque genesis de la red rinkeby mediante geth
 
-Falta 
+Para ello ejecutamos el cmmando admin desde la consola javascript de genesis y en apartado protocols podemos ver la dirección genesis "0x6341fd3daf94b748c72ced5a5b26028f2474f5f00d824504e4fa37a75767e177"
+
+Captura 3
 
 
 
