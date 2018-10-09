@@ -10,7 +10,7 @@ He abierto 2 terminales:
 
 geth --rinkeby --syncmode "fast" --rpc --rpcapi db,eth,net,web3,personal --cache=1024  --rpcport 8545 --rpcaddr 127.0.0.1 --rpccorsdomain "*" console 
 
-Captura
+![sincronizar cliente geth](https://github.com/atoranzo/MasterUAH/blob/master/PEC2/Ejercicio%201/Ejercicio%201%20-ENS_0.png)
 
 2. El segundo con la consola javascript para poder trabajar con los comandos comodamente:
 
@@ -21,22 +21,17 @@ http://docs.ens.domains/en/latest/quickstart.html
 
 Se adjunto una captura con el terminal y los comandos utilizados para demostrar que se ha realizado el ejercido:
 
+![Consola Javascript](https://github.com/atoranzo/MasterUAH/blob/master/PEC2/Ejercicio%201/Ejercicio%201%20-ENS_1.png)
 
 
-Captura
-
-
-También se adjuntan capturas de las transacciones setResolver y publicResolver
+También se adjuntan capturas de las transacciones setResolver y publicResolver 
 registradas en https://etherscan.io/
 
-
-
-Captura
+![setresolver](https://github.com/atoranzo/MasterUAH/blob/master/PEC2/Ejercicio%201/Ejercicio%201%20-ENS_2.png)
 
 
 
-Captura
-
+![publicresolver](https://github.com/atoranzo/MasterUAH/blob/master/PEC2/Ejercicio%201/Ejercicio%201%20-ENS_3.png)
 
 
 
